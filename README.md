@@ -59,6 +59,19 @@ The final evaluation of the fine-tuned Xception model on the dedicated test set 
 
 To ensure a more robust and reliable estimate of the model's generalization performance, we further conducted 5-fold stratified cross-validation using the Xception architecture. The detailed results from this cross-validation are reported at the end of the execution, providing a comprehensive view of the model's consistency and stability.
 
+![download (20)](https://github.com/user-attachments/assets/af129607-9367-40fe-aca7-5c4f7982efd3)
+![download (12)](https://github.com/user-attachments/assets/09a283e6-e3df-47b7-9661-c98365c2f8d7)
+![download (13)](https://github.com/user-attachments/assets/3cba4d26-da25-4a74-8b94-38cfb5072629)
+![download (14)](https://github.com/user-attachments/assets/5fc91672-3bb9-4e2e-beda-1e83fa498eab)
+![download (15)](https://github.com/user-attachments/assets/42549688-1afb-44b1-94fe-8d4bd487a3b6)
+![download (16)](https://github.com/user-attachments/assets/937f51ec-7b58-47ba-bd15-8ef4f40203af)
+![download (17)](https://github.com/user-attachments/assets/331a55b3-b6d4-4315-a957-fb5ab98d49aa)
+![download (18)](https://github.com/user-attachments/assets/b43567a9-81ae-4e12-9be6-f89a7e047e88)
+![download (19)](https://github.com/user-attachments/assets/9791428e-f39b-4f41-b610-319027678d17)
+
+
+
+
 ---
 
 ## Future Enhancements
